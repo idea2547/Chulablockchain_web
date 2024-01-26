@@ -8,7 +8,6 @@
 	import { AppShell } from '@skeletonlabs/skeleton';
 	import { AppBar } from '@skeletonlabs/skeleton';
 	import { Avatar } from '@skeletonlabs/skeleton';
-	import Navigation from '$lib/components/navigation.svelte';
 	import { Drawer, drawerStore } from '@skeletonlabs/skeleton';
 	import type { DrawerSettings } from '@skeletonlabs/skeleton';
 	import { setInitialClassState } from '@skeletonlabs/skeleton';
