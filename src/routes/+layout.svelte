@@ -2,7 +2,6 @@
 	// The ordering of these imports is critical to your app working properly
 	// Most of your app wide CSS should be put in this file
 	import '../app.postcss';
-	
 	import '../app.css';
 	import "./app.js";
 	import { AppShell } from '@skeletonlabs/skeleton';
@@ -93,8 +92,8 @@
 					<div class="relative flex flex-wrap items-center justify-between gap-6 lg:gap-0 lg:py-4">
 						<div class="relative z-20 flex w-full justify-between md:px-0 lg:w-max">
 							<a href="/" aria-label="ampire logo" class="nav-link flex items-center space-x-2">			
-								
-														
+								<img src="/images/LugoChula1.svg" alt="Description" />
+															
 							</a>
 		
 							<button aria-label="humburger" id="hamburger" class="relative -mr-6 p-6 lg:hidden">
@@ -113,8 +112,8 @@
 										</a>
 									</li>
 									<li>
-										<a href="https://speecify.in.th/createsound" class="nav-link block transition hover:text-primary dark:hover:text-primaryLight lg:px-4" target="_blank">
-											<span>สตูดิโอสร้างเสียง</span>
+										<a href="/calendar" class="nav-link block transition hover:text-primary dark:hover:text-primaryLight lg:px-4">
+											<span>ตารางชมรม</span>
 										  </a>
 									</li>
 									<li>
@@ -159,7 +158,7 @@
 								</button>
 							{/if}
 							<button class="mt-12 -ml-1 flex w-full flex-col space-y-2 border-primary/10 dark:border-gray-700 sm:flex-row md:w-max lg:mt-0 lg:mr-6 lg:space-y-0 lg:border-l lg:pl-6">
-								<a href="https://www.facebook.com/profile.php?id=100093644403544" class="relative ml-auto flex h-9 w-full items-center justify-center before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition-transform before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95">
+								<a href="https://www.facebook.com/chula.blockchain" class="relative ml-auto flex h-9 w-full items-center justify-center before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition-transform before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95">
 									<span class="relative text-sm font-semibold text-white btn variant-filled-primary">ติดต่อเรา</span>
 								</a>
 								

@@ -276,7 +276,7 @@
 <section id="testimonials" class="pt-32">
 	<div class="mx-auto px-4 sm:px-12 xl:max-w-6xl xl:px-0">
 		<div class="text-center">
-			<h2 class="text-3xl font-bold text-gray-800 dark:text-white md:text-4xl xl:text-5xl">รีวิวจากผู้ใช้งานจริง</h2>
+			<h2 class="text-3xl font-bold text-gray-800 dark:text-white md:text-4xl xl:text-5xl">ชมรม Chula blockchain เราทำอะไรบ้าง</h2>
 			<p class="mx-auto mt-6 text-gray-700 dark:text-gray-300 md:w-3/4 lg:w-3/5">A growing team doesn't need to mean growing pains. Privacy, and the right tool for every step of your journey - Jira Software friction - company size.</p>
 		</div>
 		<div class="mt-12 grid gap-8 md:grid-cols-2">
@@ -796,6 +796,9 @@
 					<div class="flex h-full items-center justify-between gap-6 border-b border-white py-6 dark:border-gray-800 md:flex-col md:items-start md:justify-between md:space-y-6 md:border-none md:py-0">
 						<div>
 							<a href="/index.html" aria-label="ampire logo" class="flex items-center">
+								
+									
+								
 								<!-- <svg class="h-7 w-auto" viewBox="0 0 1206 270" fill="none" xmlns="http://www.w3.org/2000/svg">
 									<g clip-path="url(#clip0_4_24)">
 										<path class="fill-[#24221B] dark:fill-white" fill-rule="evenodd" clip-rule="evenodd" d="M184.589 48.5615L259.174 177.176C271.689 198.757 264.34 226.397 242.76 238.912C221.862 251.03 195.284 244.523 182.258 224.504L168.033 245.393C189.368 269.831 225.685 276.557 254.799 259.673C287.846 240.509 299.1 198.183 279.936 165.136L204.374 34.8366C201.937 30.6351 199.126 26.7859 196.008 23.3066L184.589 48.5615Z" />
