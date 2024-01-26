@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root{
+    @apply scroll-smooth
+}
+
+body {
+    font-family: 'Noto Sans Thai', sans-serif;
+}
+
+p {
+    font-family: 'Noto Sans Thai', sans-serif;
+}
