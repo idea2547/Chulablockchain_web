@@ -16,11 +16,6 @@
 	import { Modal, Toast } from '@skeletonlabs/skeleton';
 
 	
-	if (typeof document !== 'undefined') {
-		document.documentElement.classList.add('dark');
-
-		
-	}
 
 
 	export let data;
