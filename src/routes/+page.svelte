@@ -207,7 +207,7 @@
 
 			<div class="relative items-center gap-12 lg:flex">
 				<div class="text-center sm:mx-auto sm:w-11/12 md:mt-12 md:w-4/5 lg:mt-0 lg:mr-auto lg:w-6/12 lg:text-left space-y-5">
-					<p class="mt-12 text-lg text-gray-600 dark:text-gray-300 sm:text-xl">ยกระดับคอนเทนต์ของคุณด้วยตัวช่วยแปลงข้อความเป็นเสียงพูดแบบสมจริง ไม่ว่าคุณจะเป็นคอนเทนต์ครีเอเตอร์ อยากมีตัวช่วยพากย์ตัวการ์ตูน นักพัฒนาวิดีโอเกม ครูที่อยากสร้างสื่อการสอนให้น่าสนใจ หรือเป็นอะไรก็ตาม Speecify ทำให้โอกาสในการออกแบบสร้างสรรค์เสียงให้น่าสนใจนั้นไม่มีที่สิ้นสุด</p>
+					<p class="mt-12 text-lg text-gray-600 dark:text-gray-300 sm:text-xl">เว็บไซต์จุฬา Blockchain ของเรา</p>
 
 					<p class="flex justify-center items-center mt-12 text-lg text-gray-600 dark:text-gray-300 sm:text-xl">ใส่อีเมลเพื่อติดตามข่าวสาร</p>
 					<form action="/register" class="mt-12">
@@ -251,7 +251,7 @@
 					<div class="flex justify-center items-center">
 						<button class="flex flex-col space-y-2 sm:flex-row md:w-max lg:space-y-0">
 							<a href="http://speecify.in.th/createsoundplus" class="relative flex h-9 w-full items-center justify-center before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition-transform before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-125">
-								<span class="relative text-sm font-semibold text-white text-center btn variant-filled-primary">สร้างเสียง</span>
+								<span class="relative text-sm font-semibold text-white text-center btn variant-filled-primary">เริ่มเลย</span>
 							</a>
 						</button>
 					</div>
