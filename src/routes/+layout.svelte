@@ -1,6 +1,7 @@
 <script lang='ts'>
 	// The ordering of these imports is critical to your app working properly
 	// Most of your app wide CSS should be put in this file
+	
 	import '../app.postcss';
 	import '../app.css';
 	import "./app.js";
