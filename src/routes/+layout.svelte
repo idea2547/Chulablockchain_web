@@ -17,19 +17,12 @@
 	import { Modal, Toast } from '@skeletonlabs/skeleton';
 
 	
-
-	import ModalExampleList from '$lib/modals/examples/ModalExampleList.svelte';
-
 	if (typeof document !== 'undefined') {
 		document.documentElement.classList.add('dark');
 
 		
 	}
 
-	const modalComponentRegistry: Record<string, ModalComponent> = {
-			exampleList: { ref: ModalExampleList }
-
-		};
 
 	export let data;
 
@@ -217,7 +210,6 @@
 		
 		<!-- https://github.com/sveltejs/kit/issues/7213 render Modal Before +page.svelte -->
 		<slot>
-			<Modal components={modalComponentRegistry} />
 		</slot>
 	</div>
 	
